@@ -1,1 +1,1 @@
-# laravel_pivot
+# Prueba Eloquent y pivot (laravel)
